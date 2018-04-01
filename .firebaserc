@@ -1,5 +1,6 @@
 {
   "projects": {
-    "skupka": "skupka-a75db"
+    "skupka": "skupka-a75db",
+    "default": "skupka-a75db"
   }
 }
